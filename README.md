@@ -17,4 +17,5 @@ ROADMAP + CURRENT PROGRESS
 - Monochrome.st (Partially supported, basic functions operational. Full support planned)
 - Gn Math (Partial support, many games still need substantial patches. Actively being worked on)
 - Yandex.com/games (partial support, MUCH work needed)
+- Pstream forks and Cinecat.eu (non functional, video playback buffers endlessly)
   
