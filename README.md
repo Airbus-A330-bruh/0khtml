@@ -1,7 +1,5 @@
-0k Pr0xy - HTML File version 
--
--
--
+0k Pr0xy - HTML File version
+
 - Modified Version of 0k made by Claude, with
   checks and tests performed by me.
 - Uses virtual service workers
