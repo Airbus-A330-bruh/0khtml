@@ -1,6 +1,7 @@
 0k Pr0xy - HTML File version
 
-- Modified Version of 0k made by Claude, with
+- Modified Version of 0k (original 0k can be found here: https://github.com/abndnce/0k)
+- Made by Claude, with
   checks and tests performed by me.
 - Uses virtual service workers
 - Designed to replace GUST and Sandstone
