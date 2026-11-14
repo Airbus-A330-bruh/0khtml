@@ -1,6 +1,6 @@
 
 - HEAVILY modified Version of 0k
-  #original 0k can be found here: https://github.com/abndnce/0k
+  # The original 0k repo by abndnce can be found here: https://github.com/abndnce/0k
 - Made by Claude, with
   code stability checks and tests performed by myself
 - credit to https://github.com/nautilus-os/GUST for ideas 
