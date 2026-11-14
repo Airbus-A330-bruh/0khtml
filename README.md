@@ -91,4 +91,4 @@ The primary engineering objectives are:
 0k is experimental and actively developed. Individual interception mechanisms and networking features require continued testing.
 Individual sites are also receiving patches as well.
 
-**The ultimate goal is a self-contained HTML proxy runtime capable of reproducing much of the functionality of conventional web proxies, such as Scramjet, while running directly from `file://`.**
+**The ultimate goal is a self-contained HTML proxy runtime capable of reproducing as much as possible of the functionality of conventional web proxies, such as Scramjet, while running directly from `file://`.**
