@@ -2,6 +2,7 @@
 - Modified Version of 0k (original 0k can be found here: https://github.com/abndnce/0k)
 - Made by Claude, with
   checks and tests performed by me.
+- credit to https://github.com/nautilus-os/GUST for ideas 
 # 0k HTML
 
 **A standalone HTML-based web proxy designed to operate directly from `file://`.**
