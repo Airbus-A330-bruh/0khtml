@@ -1,7 +1,7 @@
 
 - Modified Version of 0k (original 0k can be found here: https://github.com/abndnce/0k)
 - Made by Claude, with
-  checks and tests performed by me.
+  code stability checks and tests performed by myself
 - credit to https://github.com/nautilus-os/GUST for ideas 
 # 0k HTML
 
