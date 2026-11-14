@@ -6,7 +6,7 @@
 - Uses virtual service workers
 - Designed to replace GUST and Sandstone
 - Supports a number of sites, with more being patched frequently.
-  
+- Hosted version here: https://airbus-a330-bruh.github.io/0khtml/
 Why HTML? 
 - Ultra-Portability
 - Stealth
